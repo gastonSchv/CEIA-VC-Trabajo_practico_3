@@ -1,4 +1,4 @@
-Visión Por Computadora I: Trabajo Práctico II
+Visión Por Computadora I: Trabajo Práctico III
 
 Facultad de Ingeniería de la Universidad de Buenos Aires
 
